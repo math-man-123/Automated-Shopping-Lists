@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Section A",
+        "items": [
+            "item a",
+            "item b",
+            "item c",
+            "item d",
+            "item e"
+        ]
+    },
+    {
+        "name": "Section B",
+        "items": [
+            "item f",
+            "item g",
+            "item h"
+        ]
+    },
+    {
+        "name": "Section C",
+        "items": [
+            "item i",
+            "item j"
+        ]
+    }
+]

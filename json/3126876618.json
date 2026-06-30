@@ -1,0 +1,15 @@
+{
+    "name": "recipie XYZ",
+    "items": [
+        { "name": "item a", "qtys": "2" },
+        { "name": "item b", "qtys": "4" },
+        { "name": "item c", "qtys": "200ml" },
+        { "name": "item d", "qtys": "700ml" },
+        { "name": "item e", "qtys": "200g" },
+        { "name": "item f", "qtys": "200g" },
+        { "name": "item g", "qtys": "?" },
+        { "name": "item h", "qtys": "?" },
+        { "name": "item i", "qtys": "?" },
+        { "name": "item j", "qtys": "?" }
+    ]
+}
