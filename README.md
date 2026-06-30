@@ -1,5 +1,5 @@
 # Introduction
-This project provides a Rasberry Pi based system to scan recipe QR codes and automatically print out shopping lists sorted by the actual store layout. A full [write-up](https://philsfun.com/printer/index.html) can be read on my website.
+This project provides a Rasberry Pi based system to scan recipe QR codes and automatically print out shopping lists sorted by the actual store layout. A [full write-up](https://philsfun.com/printer/index.html) can be read on my website.
 
 <p align="center">
 <img width="600" alt="example" src="https://github.com/user-attachments/assets/776238a6-bce2-414e-b6d5-6e3d719d5b8a" />
