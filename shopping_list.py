@@ -199,14 +199,6 @@ class ShoppingList:
         target["qtys"] = self._seperator.join(t_qtys)
 
 
-    # def _add_qtys(self, target: dict, delta: dict) -> None:
-    #     """Add `delta` item with any qtys to `target` item."""
-    #     d_qtys = delta["qtys"].split(self._seperator)
-    #     for d_qty in d_qtys: 
-    #         sub_delta = { "qtys": d_qty }
-    #         self._add_qty(target, sub_delta)
-
-
     def _add_item(self, item: dict, item_sec: str = "Sonstiges") -> None:
         """Add an `item` to its correct section."""
         # find section the item belongs to
