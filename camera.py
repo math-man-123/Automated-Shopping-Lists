@@ -66,10 +66,3 @@ def scan_qrcode(
         cv2.imwrite("img/qrcode.png", qrcode)
 
     return data
-
-
-# use this to generate images
-# while True:
-#     data = scan_qrcode(
-#         debug=True, sharpness=True, contrast=True)
-#     if data: print(data); break
